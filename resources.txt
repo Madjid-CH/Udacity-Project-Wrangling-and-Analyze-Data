@@ -1,0 +1,6 @@
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+https://docs.tweepy.org/en/stable/getting_started.html?
+https://wiki.python.org/moin/HandlingExceptions
+https://stackoverflow.com/questions/5352546/extract-a-subset-of-key-value-pairs-from-dictionary
+https://stackoverflow.com/questions/47333227/pandas-valueerror-cannot-convert-float-nan-to-integer
+
